@@ -1,0 +1,16 @@
+{
+    "port": "80",
+    "token": "ODg4OTI0MTIzMjkwNTMzOTE4.YUZxGg.R_MNSaWTcIVCuL19--gct2R_26M",
+    "prefix": "!",
+    "ownerIds": ["441492546028306436", "476065326216511491"],
+    "storage": {
+        "type": "json",
+        "mysql": {
+            "host": "localhost",
+            "user": "",
+            "password": "",
+            "database": ""
+        },
+        "mysql_anti_idle": true
+    }
+}
